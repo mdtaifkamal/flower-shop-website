@@ -130,8 +130,8 @@ body {
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
-    border: 0;   
-    margin: 20px 0px 0px 210px;     
+    border: 0;
+    margin: 20px 0px 0px 210px;
 }
 
 /* Instagram Styles */
@@ -166,21 +166,20 @@ body {
     margin: 100px 35px 10px 35px;
     padding: 100px 50px;
     justify-content: center;
+}
 
-    .latest-deals-heading {
-        color: #272727;
-        text-align: center;
-        font-size: 40px;
-        font-weight: 800;
-    }
+.latest-deals-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
 
-    .latest-deals-description {
-        color: rgba(39, 39, 39, 0.60);
-        text-align: center;
-        font-size: 18px;
-        font-weight: 400;
-    }
-
+.latest-deals-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .contact input {
@@ -203,33 +202,33 @@ body {
 
 /* Testimonial Styles */
 
-.testimonial{
+.testimonial {
     margin: 0px 35px 20px 35px;
     padding: 50px 50px;
 }
 
-.testimonial-heading{
+.testimonial-heading {
     color: #272727;
-        text-align: center;
-        font-size: 40px;
-        font-weight: 800;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
 }
 
-.testimonial-description{
+.testimonial-description {
     color: rgba(39, 39, 39, 0.60);
-        text-align: center;
-        font-size: 18px;
-        font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
 
-.testimonial-names{
+.testimonial-names {
     color: rgba(39, 39, 39, 0.60);
-        text-align: center;
-        font-size: 18px;
-        font-weight: 400;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
 }
 
-.testimonial-pic{
+.testimonial-pic {
     padding: 0px 620px;
 }
 
@@ -247,7 +246,7 @@ body {
     text-align: center;
 }
 
-.flower{
+.flower {
     color: #E55473;
 }
 
@@ -255,7 +254,7 @@ body {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;    
+    font-weight: 400;
 }
 
 .footer-copyright {
