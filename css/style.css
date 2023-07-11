@@ -14,7 +14,8 @@ body {
     border: 0;
 }
 
-/* banner styles */
+
+/* banner section styles */
 
 .banner {
     padding: 50px 240px 0px;
@@ -23,7 +24,7 @@ body {
     justify-content: space-between;
 }
 
-.banner-content{
+.banner-content {
     max-width: 708px;
 }
 
@@ -34,14 +35,61 @@ body {
     margin-bottom: 32px;
 }
 
-.banner-paragraph {
+.banner-description {
     margin-bottom: 32px;
 }
 
 .banner .banner-flower {
-    width: 635px;    
+    width: 635px;
 }
 
-.header{
+.header {
     background-color: #E554731A;
+}
+
+/* featured flowers section styles */
+
+.flower-section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+
+.flower-section-description {
+    text-align: center;
+}
+
+#desc {
+    margin: 24px 663px 48px;
+}
+
+.featured-flowers {
+    display: flex;
+    gap: 20px;
+    padding: 48px 240px 195px;
+}
+
+.featured-flower-1 {
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    padding: 110px 75px 0px;
+}
+
+.featured-flower-2 {
+    background-color: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+    padding: 117px 45px 51px;
+}
+
+.featured-flower-3 {
+    background-color: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+    padding: 67px 75px 0px;
+}
+
+.pink-flower-tree{
+    text-align: center;
+    color: #272727;
 }
